@@ -1,0 +1,3 @@
+# Typescript React Graphql Todo List
+
+Just following udemy course... nothing special...
